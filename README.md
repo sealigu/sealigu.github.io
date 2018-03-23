@@ -1,2 +1,2 @@
-# sealigu.github.io
+# acg-neko
 Build personal blog
